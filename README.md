@@ -5,9 +5,13 @@ Simulação da compra de passagem aérea no site [https://www.blazedemo.com](htt
 
 ### Fluxo testado
 CT01. Acessar home
+
 CT02. Selecionar origem e destino
+
 CT03. Escolher voo
+
 CT04. Preencher dados
+
 CT05. Confirmar compra (Fluxo Principal)
 
 ## Configuração do Teste
