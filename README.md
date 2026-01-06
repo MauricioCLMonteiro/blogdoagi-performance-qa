@@ -36,4 +36,5 @@ Abra `report/index.html` para visualizar o relatório completo.
 - 90º Percentil: **1.65s**
 - Erros: **0.00%**
 
-**Critério de aceitação atendido.**
+### Autor
+Desenvolvido por Mauricio Cordeiro Lyrio Monteiro
