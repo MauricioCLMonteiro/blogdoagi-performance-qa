@@ -35,5 +35,5 @@ Abra `report/index.html` para visualizar o relatório completo.
 - Throughput médio: **262 req/s**
 - 90º Percentil: **1.65s**
 - Erros: **0.00%**
-- 
+
 **Critério de aceitação atendido.**
