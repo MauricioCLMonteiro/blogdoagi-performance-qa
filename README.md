@@ -4,11 +4,11 @@
 Simulação da compra de passagem aérea no site [https://www.blazedemo.com](https://www.blazedemo.com)
 
 ### Fluxo testado
-1. Acessar home
-2. Selecionar origem e destino
-3. Escolher voo
-4. Preencher dados
-5. Confirmar compra
+CT01. Acessar home
+CT02. Selecionar origem e destino
+CT03. Escolher voo
+CT04. Preencher dados
+CT05. Confirmar compra (Fluxo Principal)
 
 ## Configuração do Teste
 - Ferramenta: Apache JMeter 5.6+
